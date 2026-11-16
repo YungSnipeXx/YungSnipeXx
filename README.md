@@ -1,16 +1,13 @@
-## Hi there 👋
+# YungSnipeXx — nice to meet you 👋
 
-<!--
-**YungSnipeXx/YungSnipeXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Singapore.
 
-Here are some ideas to get you started:
+- 💬 Ask me about React
+- 📚 Currently reading whatever the docs link to
+- ☕ Powered by coffee and late-night commits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=YungSnipeXx&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YungSnipeXx&hide_border=true&theme=synthwave" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Node.js-39d353?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/SQLite-39d353?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Express-39d353?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-39d353?style=for-the-badge&logoColor=white" alt="React" />
